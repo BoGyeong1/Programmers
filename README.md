@@ -11,3 +11,4 @@ Programmers SQL 연습문제 풀이
 - [Sort_Desc.sql](./P_SQL/Sort_Desc.sql) : 역순 정렬하기
 - [NULL_USERS.sql](./P_SQL/NULL_USERS.sql) : 나이 정보가 없는 회원 수 구하기
 - [NULL_Animal_ID.sql](./P_SQL/NULL_Animal_ID.sql) : 이름이 없는 동물의 아이디
+- [Factory_list](./P_SQL/Factory_list.sql) : 강원도에 위치한 생산공장 목록 출력하기
