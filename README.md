@@ -1,4 +1,5 @@
-## Programmers  
+## Programmers
+
 Programmers SQL 연습문제 풀이
 
 - [Record_Difference.sql](./P_SQL/Record_Difference.sql) : 상위 N개 레코드
@@ -12,3 +13,4 @@ Programmers SQL 연습문제 풀이
 - [NULL_USERS.sql](./P_SQL/NULL_USERS.sql) : 나이 정보가 없는 회원 수 구하기
 - [NULL_Animal_ID.sql](./P_SQL/NULL_Animal_ID.sql) : 이름이 없는 동물의 아이디
 - [Factory_list](./P_SQL/Factory_list.sql) : 강원도에 위치한 생산공장 목록 출력하기
+- [Icecream.sql](./P_SQL/Icecream.sql) : 과일로 만든 아이스크림 고르기
