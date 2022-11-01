@@ -16,3 +16,5 @@ Programmers SQL 연습문제 풀이
 - [Icecream.sql](./P_SQL/Icecream.sql) : 과일로 만든 아이스크림 고르기
 - [Icecream_popular.sql](./P_SQL/Icecream_popular.sql) : 인기있는 아이스크림
 - [Docter.sql](./P_SQL/Docter.sql) : 흉부외과 또는 일반외과 의사 목록 출력하기
+- [Patient_W.sql](/P_SQL/Patient_W.sql) : 12세 이하인 여자 환자 목록 출력하기
+- [Max_price.sql](./P_SQL/Max_price.sql) : 가장 비싼 상품 구하기
