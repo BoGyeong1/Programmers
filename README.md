@@ -15,3 +15,4 @@ Programmers SQL 연습문제 풀이
 - [Factory_list](./P_SQL/Factory_list.sql) : 강원도에 위치한 생산공장 목록 출력하기
 - [Icecream.sql](./P_SQL/Icecream.sql) : 과일로 만든 아이스크림 고르기
 - [Icecream_popular.sql](./P_SQL/Icecream_popular.sql) : 인기있는 아이스크림
+- [Docter.sql](./P_SQL/Docter.sql) : 흉부외과 또는 일반외과 의사 목록 출력하기
