@@ -19,3 +19,4 @@ Programmers SQL 연습문제 풀이
 - [Patient_W.sql](/P_SQL/Patient_W.sql) : 12세 이하인 여자 환자 목록 출력하기
 - [Max_price.sql](./P_SQL/Max_price.sql) : 가장 비싼 상품 구하기
 - [user_numbers.sql](./P_SQL/user_numbers.sql) : 조건에 맞는 회원수 구하기
+- [](./P_SQL/Factory_G.sql) : 경기도에 위치한 식품창고 목록 출력하기
